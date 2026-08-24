@@ -11,6 +11,9 @@ The analysis focuses on two main business questions:
 1. Market Expansion: What market size can GoExplore expect in the target countries based on comparisons with existing markets of similar population and GDP?
 2. Retailer Performance: Do specialty retailers, such as Golf Shops and Eyewear Stores, perform differently from general retailers, such as Sports Stores and Outdoors Shops?
 
+## 🔗 Live Dashboard Link
+[View Live Dashboard](https://datastudio.google.com/reporting/348b25c2-b761-46ae-80b2-4a8a883c745d)
+
 ## 📈 Dashboard
 The final interactive Dashboard consists of three pages: 
 
