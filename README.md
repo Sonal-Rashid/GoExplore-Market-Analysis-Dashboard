@@ -16,15 +16,24 @@ The final interactive Dashboard consists of three pages:
 
 1. Overall Performance
 Provides an overview of business performance using KPIs for revenue, profit, profit margin, sales and retailers, along with charts for monthly revenue, top markets, product lines and sales channels.
-![Overall Performance](images/overall-performance.png)
+
+<p align="center">
+  <img src="images/overall_performance.png" alt="Overall Performance">
+</p>
 
 3. Market Size Estimation
 Evaluates potential markets using population, GDP, GDP per capita, retailers and revenue. Country and year filters allow market comparisons, including revenue vs. GDP per capita and monthly revenue by country.
-<p align="center"><img width="700" src="images/overall-performance.png" alt="description" /></p>
+
+<p align="center">
+  <img src="images/market_size_estimation.png" alt="Market size estimation">
+</p>
 
 4. Retailer Efficiency
 Compares specialty and general retailers using Average Order Value, sales, quantity sold, revenue and brand performance. A country filter allows retailer performance to be analyzed across markets.
-<p align="center"><img width="700" src="" alt="description" /></p>
+
+<p align="center">
+  <img src="images/retailer_efficiency.png" alt="Retailer efficiency">
+</p>
 
 ## 🛠️ Tools Used
 - Google Sheets – Data preparation and initial analysis
