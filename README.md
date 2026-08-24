@@ -16,7 +16,7 @@ The final interactive Dashboard consists of three pages:
 
 1. Overall Performance
 Provides an overview of business performance using KPIs for revenue, profit, profit margin, sales and retailers, along with charts for monthly revenue, top markets, product lines and sales channels.
-<p align="center"><img width="700" src="" alt="description" /></p>
+<p align="center"><img width="700" src="images/overall_performance" alt="description" /></p>
 
 3. Market Size Estimation
 Evaluates potential markets using population, GDP, GDP per capita, retailers and revenue. Country and year filters allow market comparisons, including revenue vs. GDP per capita and monthly revenue by country.
