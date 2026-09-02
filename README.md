@@ -1,4 +1,4 @@
-# GoExplore-Market-Analysis-Dashboard
+# GoExplore Market Analysis Dashboard
 
 ## 📊 Project Overview 
 This project analyzes market opportunities and retailer performance for GoExplore, with the goal of supporting expansion into four target countries:
